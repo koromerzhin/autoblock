@@ -1,3 +1,4 @@
+p-h29.bsky.social
 lucie58.bsky.social
 gallus2gallia.bsky.social
 franceeurope3.bsky.social
@@ -688,7 +689,6 @@ inter74.bsky.social
 eugiac.bsky.social
 frederic-frank.bsky.social
 trevatcg.bsky.social
-herve1948.bsky.social
 corsairebzh.bsky.social
 rosejasmin.bsky.social
 marco1664.bsky.social
