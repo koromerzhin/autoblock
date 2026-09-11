@@ -1846,7 +1846,6 @@ twemp.bsky.social
 helpnds.bsky.social
 joelthegiraffe.bsky.social
 newvak.bsky.social
-cletusjhendrix.bsky.social
 x-man7.bsky.social
 sinnej.bsky.social
 dimas12345.bsky.social
