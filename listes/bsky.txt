@@ -1,3 +1,4 @@
+anthonymeilland.eurosky.social
 jeansebboche.bsky.social
 p-h29.bsky.social
 lucie58.bsky.social
@@ -118,7 +119,6 @@ ternoise.bsky.social
 thierry2a.bsky.social
 notlesarchives.bsky.social
 landaisbo.bsky.social
-kallimakhos.bsky.social
 mawinon.bsky.social
 windscribevpn.bsky.social
 mephisto1900.bsky.social
