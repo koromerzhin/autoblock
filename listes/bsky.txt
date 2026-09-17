@@ -1,3 +1,4 @@
+cudkov.bsky.social
 funfact.eurosky.social
 anthonymeilland.eurosky.social
 jeansebboche.bsky.social
@@ -121,6 +122,7 @@ ternoise.bsky.social
 thierry2a.bsky.social
 notlesarchives.bsky.social
 landaisbo.bsky.social
+kallimakhos.bsky.social
 mawinon.bsky.social
 windscribevpn.bsky.social
 mephisto1900.bsky.social
@@ -1350,6 +1352,7 @@ mvrwc.com
 lasoc.bsky.social
 ownthedems2024.bsky.social
 lilamaega.bsky.social
+brinnenr.bsky.social
 liambagley.bsky.social
 victoria2027.bsky.social
 bodittle.bsky.social
