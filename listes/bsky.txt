@@ -1,3 +1,5 @@
+escargot-voyageur.bsky.social
+dsqdq.bsky.social
 cudkov.bsky.social
 funfact.eurosky.social
 anthonymeilland.eurosky.social
@@ -642,7 +644,6 @@ leftfrench.bsky.social
 louisonnevra.bsky.social
 jean-marielebenne.bsky.social
 thierrydom.bsky.social
-n57af.bsky.social
 yoyo8571.bsky.social
 apernoster.bsky.social
 stephane-giordano.bsky.social
