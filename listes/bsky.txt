@@ -1,3 +1,5 @@
+elsalenk.bsky.social
+isabel-belinha.bsky.social
 fdesouche.com.web.brid.gy
 goddam63300.bsky.social
 necplus.bsky.social
@@ -62,7 +64,6 @@ franceartix.bsky.social
 steappe.bsky.social
 lisnard2027.bsky.social
 bonnemain.bsky.social
-bombscare.bsky.social
 d3s4.bsky.social
 ripostelaique.com.web.brid.gy
 christian-navis.bsky.social
