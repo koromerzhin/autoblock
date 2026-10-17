@@ -1,3 +1,6 @@
+soficincinnati.eurosky.social
+laorenz.bsky.social
+baba91.bsky.social
 steelchicken.bsky.social
 pianocktailiste.bsky.social
 jean-martin150520.bsky.social
@@ -27,7 +30,6 @@ woodaddictfree.bsky.social
 pierredhid.bsky.social
 rfenau.bsky.social
 yakafokon35.bsky.social
-perrettremblayj.bsky.social
 olivierhusson.bsky.social
 suisjefou.bsky.social
 kiki41600.bsky.social
@@ -935,7 +937,6 @@ lyon.bsky.social
 christianvonschwei.bsky.social
 andycynaqua.bsky.social
 natio2france.bsky.social
-timeodanaos.bsky.social
 crp1969.bsky.social
 siraldo974.bsky.social
 alsosobistro.bsky.social
