@@ -1,3 +1,5 @@
+guybonville.bsky.social
+slumberflip.bsky.social
 philgali.bsky.social
 vrogan.bsky.social
 mistv.bsky.social
@@ -36,7 +38,6 @@ woodaddictfree.bsky.social
 pierredhid.bsky.social
 rfenau.bsky.social
 yakafokon35.bsky.social
-perrettremblayj.bsky.social
 olivierhusson.bsky.social
 suisjefou.bsky.social
 kiki41600.bsky.social
