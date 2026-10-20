@@ -41,6 +41,7 @@ woodaddictfree.bsky.social
 pierredhid.bsky.social
 rfenau.bsky.social
 yakafokon35.bsky.social
+perrettremblayj.bsky.social
 olivierhusson.bsky.social
 suisjefou.bsky.social
 kiki41600.bsky.social
@@ -61,6 +62,7 @@ roiorycteropes.bsky.social
 veritascivis.bsky.social
 xavierprigent4.bsky.social
 jacapel.bsky.social
+arnaud-jumaire.bsky.social
 henrypierrem.bsky.social
 tomoffrance.bsky.social
 lecoqnoirfrance.bsky.social
@@ -165,7 +167,6 @@ remeor.bsky.social
 jvousbz.bsky.social
 25410.bsky.social
 saucisson-007.bsky.social
-xanatoss.bsky.social
 patrox14.bsky.social
 sgomeza.bsky.social
 delkinsen.bsky.social
