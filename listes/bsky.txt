@@ -62,6 +62,7 @@ roiorycteropes.bsky.social
 veritascivis.bsky.social
 xavierprigent4.bsky.social
 jacapel.bsky.social
+arnaud-jumaire.bsky.social
 henrypierrem.bsky.social
 tomoffrance.bsky.social
 lecoqnoirfrance.bsky.social
@@ -974,7 +975,6 @@ pasvictorferry.bsky.social
 dumecasta.bsky.social
 gavberserk.bsky.social
 phil35.bsky.social
-fandetv.bsky.social
 jeanmi5164.bsky.social
 franat.bsky.social
 julienboutdepain.bsky.social
