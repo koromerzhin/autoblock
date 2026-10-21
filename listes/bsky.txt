@@ -382,6 +382,7 @@ vincent-pauwels.bsky.social
 papillon4456.bsky.social
 sdufil.bsky.social
 divingdarkside.bsky.social
+goliath24.bsky.social
 kaveen.bsky.social
 astigmate.bsky.social
 lamiavita.bsky.social
@@ -683,6 +684,7 @@ poissard.bsky.social
 j19862.bsky.social
 gouinetelecom.bsky.social
 charlesmarteloff.bsky.social
+johnnyroboto.bsky.social
 jimduchesne.bsky.social
 l-oise-au-rouge.bsky.social
 marine757.bsky.social
