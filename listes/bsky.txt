@@ -859,7 +859,7 @@ turbo-libre.bsky.social
 louracky.bsky.social
 odileblandino.bsky.social
 marianne-labu.bsky.social
-handle.invalid
+laurent-k.bsky.social
 emmanuelyvon.bsky.social
 christel08.bsky.social
 chrisled.bsky.social
